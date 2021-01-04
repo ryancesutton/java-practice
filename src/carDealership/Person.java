@@ -1,3 +1,5 @@
+package carDealership;
+
 public class Person {
 
     private String name;
@@ -7,7 +9,7 @@ public class Person {
     }
 
 //    public static void main(String[] args) {
-//        Person person1 = new Person("Ry");
+//        carDealership.Person person1 = new carDealership.Person("Ry");
 //        System.out.println(person1.getName());
 //        person1.setName("OtherName");
 //        System.out.println(person1.getName());
