@@ -6,13 +6,13 @@ public class Person {
         this.name = name;
     }
 
-    public static void main(String[] args) {
-        Person person1 = new Person("Ry");
-        System.out.println(person1.getName());
-        person1.setName("OtherName");
-        System.out.println(person1.getName());
-        person1.sayHello();
-    }
+//    public static void main(String[] args) {
+//        Person person1 = new Person("Ry");
+//        System.out.println(person1.getName());
+//        person1.setName("OtherName");
+//        System.out.println(person1.getName());
+//        person1.sayHello();
+//    }
 
 
     public String getName() {
