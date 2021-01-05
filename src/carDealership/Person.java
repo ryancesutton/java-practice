@@ -8,14 +8,6 @@ public class Person {
         this.name = name;
     }
 
-//    public static void main(String[] args) {
-//        carDealership.Person person1 = new carDealership.Person("Ry");
-//        System.out.println(person1.getName());
-//        person1.setName("OtherName");
-//        System.out.println(person1.getName());
-//        person1.sayHello();
-//    }
-
 
     public String getName() {
         return this.name;
